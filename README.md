@@ -1,4 +1,3 @@
-
 # Absolute Vanilla Experience Pack (AVEP)
 
 > **Minecraft 1.21.4 • Quilt / Fabric**  
@@ -12,7 +11,7 @@
 
 ### Mod List
 140+ mods with direct links to Modrinth and CurseForge:  
-📄 **[Open Mod List (index.html)](./index.html)**
+📄 **[Open Mod List](<./AbsoluteVanillaExperiencePack(AVEP).html>)**
 
 ---
 
@@ -23,9 +22,7 @@
 
 ### Список модов
 140+ модов со ссылками на Modrinth и CurseForge:  
-📄 **[Открыть список модов (index.html)](./index.html)**
-
-
+📄 **[Открыть список модов](<./AbsoluteVanillaExperiencePack(AVEP).html>)**
 
 ---
 
