@@ -10,8 +10,9 @@
 **AVEP** is a clean, client-side pack with zero cheats. Built for smooth vanilla survival, manual building, and deep immersion. It refines UI, audio, and controls while keeping vanilla balance intact.
 
 ### Mod List
-140+ mods with direct links to Modrinth and CurseForge:  
+130+ mods with direct links to Modrinth and CurseForge:  
 📄 **[Open Mod List](https://skameika-user.github.io/AVEP/)**
+📄 **[Open Resourcepacks List](https://skameika-user.github.io/AVEP/resourcepacks.html)**
 
 > **Note:** Keybinds and configs require manual adjustment. Some mods may conflict out of the box without setup.
 
@@ -23,8 +24,9 @@
 **AVEP** — чистая клиентская сборка без читов. Создана для удобного ванильного выживания, стройки и погружения. Улучшает UI, звук и отзывчивость, не меняя баланс игры.
 
 ### Список модов
-140+ модов со ссылками на Modrinth и CurseForge:  
+130+ модов со ссылками на Modrinth и CurseForge:  
 📄 **[Открыть список модов](https://skameika-user.github.io/AVEP/)**
+📄 **[Открыть список ресурспаков](https://skameika-user.github.io/AVEP/resourcepacks.html)**
 
 > **Примечание:** Настройка клавиш и конфликтов остается за вами. Без ручной настройки некоторые моды могут конфликтовать.
 
